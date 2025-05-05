@@ -34,5 +34,5 @@
 #### 启动可视化工具Rviz2
 ![alt text](image-2.png)
 本周目标
-- 了解doker用法
-- 掌握QT基本操作
+- 了解C++ Google Guide风格代码编写
+- 完成git仓库管理和上传
