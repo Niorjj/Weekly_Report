@@ -1,9 +1,0 @@
-### MQTT与ROS的区别
-- 数据量区别
-### 虚拟机与Docker
-- 与主机环境隔离
-- Docker更便于移植
-- -Dockerfile
-### 了解数据格式与通信格式
-- probuff
-- json
